@@ -11,6 +11,9 @@ Software engineer building reliable backend and full-stack products.
 
 ## Selected projects
 
+- **[Growth Headquarters AI](https://enzoaguiar13.github.io/growth-headquarters-ai-portfolio/)**
+  — local-first agent orchestration platform with deny-by-default policies,
+  bounded tools and human review. Public portfolio; source code remains private.
 - **[Orbita](https://github.com/EnzoAguiar13/orbita-backend)** — contact
   management and customer operations platform, with a separate typed frontend.
 - **[NOIR OS](https://github.com/EnzoAguiar13/noir-os)** — personal operating
