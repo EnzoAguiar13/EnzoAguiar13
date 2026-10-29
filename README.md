@@ -22,6 +22,12 @@ Os repositórios de código dos produtos permanecem privados por razões comerci
 | [Fotograma AI](https://github.com/EnzoAguiar13/growth-headquarters-ai-portfolio/blob/main/projects/fotograma-ai.md) | Plataforma própria de imagem e vídeo |
 | [Qualifica Leads](https://github.com/EnzoAguiar13/growth-headquarters-ai-portfolio/blob/main/projects/qualifica-leads.md) | Qualificação interna de oportunidades |
 | [NOIR OS](https://github.com/EnzoAguiar13/growth-headquarters-ai-portfolio/blob/main/projects/noir-os.md) | Sistema operacional pessoal |
+| [Personal Gateway](https://enzoaguiar13.github.io/growth-headquarters-ai-portfolio/projects/project.html?project=personal-gateway) | Catálogo, pedidos e integrações em desenvolvimento privado |
+| [Organizador](https://enzoaguiar13.github.io/growth-headquarters-ai-portfolio/projects/project.html?project=organizador) | Organização pessoal com foco financeiro |
+
+## Projeto técnico público
+
+[Customer Churn Intelligence](https://github.com/EnzoAguiar13/customer-churn-intelligence) — Python, FastAPI e preparação reproduzível de dados para machine learning. A branch principal contém validação do dataset e divisão determinística dos dados; treinamento, avaliação e serving ainda são etapas futuras.
 
 ## Tecnologias
 
